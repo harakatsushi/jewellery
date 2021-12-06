@@ -1,0 +1,107 @@
+Return-Path: <rainrain20151111@gmail.com>
+Delivered-To: info@ai-jewelly.com
+Received: from virusgw1.netowl.jp (virusgw1.netowl.jp [157.112.191.243])
+	by sv50.star.ne.jp (Postfix) with ESMTP id C5DB7386B2E794
+	for <info@ai-jewelly.com>; Mon, 25 Jan 2021 11:36:02 +0900 (JST)
+Received: from sv50.star.ne.jp (157.112.187.71)
+ by virusgw1.netowl.jp (F-Secure/fsigk_smtp/521/virusgw1.netowl.jp);
+ Mon, 25 Jan 2021 11:36:02 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/521/virusgw1.netowl.jp)
+Received: from mail-pj1-f53.google.com (mail-pj1-f53.google.com [209.85.216.53])
+	by sv50.star.ne.jp (Postfix) with ESMTPS id 8B654386B2E79C
+	for <info@ai-jewelly.com>; Mon, 25 Jan 2021 11:36:02 +0900 (JST)
+Received: by mail-pj1-f53.google.com with SMTP id l18so1515293pji.3
+        for <info@ai-jewelly.com>; Sun, 24 Jan 2021 18:36:02 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:date:from:subject:thread-topic:message-id:to
+         :content-transfer-encoding;
+        bh=vbuS11if4VBvi9mwyrBMPcRT2i80bVkPci2fP1Qlq9s=;
+        b=W6c83yQQ8+aIqJVRuyTeANrjp00TIQyv9rJZ9zhOJUgXj03pTR/zsLiK9g6V0rLdDb
+         CYNHmlvoS/IaDmbhElIEtcFaHi01Vvxsg9FUavTXFN15d7vgIqB72zSBIeLocT+RZoAj
+         EiR275PgyH4VQLdzKKJWuvR5DzKryTOFtdEbkDncgryJ35tOuH347/+NlffnHpfqty2X
+         eqpGBlJ+zSbc+XejJMyyZd2zcCIlkf8E3gEtR6nkDSUGjvp57wQxL/wlASC3ijAXLpuh
+         b+J73UzjvEbOYbLGWF69n0Y5ac+D3ZNNNDag1uqdfeY9P44z+LrZ8wHMRoY8aKzkHQnp
+         p9sQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:date:from:subject:thread-topic
+         :message-id:to:content-transfer-encoding;
+        bh=vbuS11if4VBvi9mwyrBMPcRT2i80bVkPci2fP1Qlq9s=;
+        b=m8OTm0C0ITbeWrCppSoUYsU1w1DFxabn4OsMs1p4jLHiPYDIyVTGz6l8e6A0pXqbtg
+         zocR8XrX4Zq+4BZ8ONoid5Merjm3QI40ghDQ0BvBP8U45BfSv1+HyT8c9CJrWIKd0iKy
+         VVB0SxMpdJMpAOC6eWb+sw8qrwb2+NMsjjj0jCVNQUu6nNk0aQbMwCfNDuaQLjjLrzOQ
+         IQPw8phVMX9xDjkALDh6y59XwmUxtceA04sJ5cQlvymy9zaGZ6kHJQpb6ldw5mQxIqhE
+         Ex/LQJdiTgAMQz624aGPI/+Y9z+J3PfwXMn35ULfowdboVO9zou3RPWqLMbDUEFskNx8
+         CC6Q==
+X-Gm-Message-State: AOAM531W5EbaA3q3SqjUS0ljkEwI5+VUjql4k6C4atZxgmBaSVpwniNx
+	H5vBy2wYy03DpnRLShfAqhdhnQWwp00uBw==
+X-Google-Smtp-Source: ABdhPJw55s7yllmhCqaz5Ei2DbhANvyz3cD2lIT155Q0YOQWsycjWWaG2mDc/SmPbAR39JUC1zdSTQ==
+X-Received: by 2002:a17:902:e74b:b029:df:e5d6:c35f with SMTP id p11-20020a170902e74bb02900dfe5d6c35fmr5004746plf.57.1611542160061;
+        Sun, 24 Jan 2021 18:36:00 -0800 (PST)
+Received: from smtp.gmail.com (222-229-238-204.tokyo.fdn.vectant.ne.jp. [222.229.238.204])
+        by smtp.gmail.com with ESMTPSA id a189sm15790847pfd.117.2021.01.24.18.35.58
+        for <info@ai-jewelly.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 24 Jan 2021 18:35:59 -0800 (PST)
+MIME-Version: 1.0
+Date: Mon, 25 Jan 2021 11:35:52 +0900
+From: RAIN <rainrain20151111@gmail.com>
+Subject: =?utf-8?Q?=E3=83=AC=E3=82=A4=E3=83=B3?=
+Thread-Topic: =?utf-8?Q?=E3=83=AC=E3=82=A4=E3=83=B3?=
+Message-ID: <FBBFC43C-3265-43B2-A176-FE8D35F9FC96@hxcore.ol>
+To: "info@ai-jewelly.com" <info@ai-jewelly.com>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+netowl-Filter: info@ai-jewelly.com
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta ht=
+tp-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta name=
+=3DGenerator content=3D"Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Yu Gothic";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS PGothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:"Yu Gothic";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS PGothic";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0mm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"=E6=B8=B8=E3=82=B4=E3=82=B7=E3=83=83=E3=82=AF",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+/* Page Definitions */
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:99.25pt 30.0mm 30.0mm 30.0mm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3DJA link=3Dblue vlink=3D"#954F72"><div class=
+=3DWordSection1><p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:=
+12.0pt'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US=
+><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US>Window=
+s 10 </span>=E7=89=88=E3=81=AE<span lang=3DEN-US><a href=3D"https://go.micr=
+osoft.com/fwlink/?LinkId=3D550986"><span lang=3DEN-US><span lang=3DEN-US>=
+=E3=83=A1=E3=83=BC=E3=83=AB</span></span></a></span>=E3=81=8B=E3=82=89=E9=
+=80=81=E4=BF=A1</p><p class=3DMsoNormal><span lang=3DEN-US style=3D'font-si=
+ze:12.0pt;font-family:"=EF=BC=AD=EF=BC=B3 =EF=BC=B0=E3=82=B4=E3=82=B7=E3=83=
+=83=E3=82=AF",sans-serif'><o:p>&nbsp;</o:p></span></p></div></body></html>=
+

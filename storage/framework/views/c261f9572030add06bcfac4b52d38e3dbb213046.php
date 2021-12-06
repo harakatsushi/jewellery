@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/html/resources/views/laravel-admin/dashboard/environment.blade.php ENDPATH**/ ?>

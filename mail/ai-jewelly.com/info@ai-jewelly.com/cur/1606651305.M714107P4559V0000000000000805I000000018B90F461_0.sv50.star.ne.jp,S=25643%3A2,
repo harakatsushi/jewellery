@@ -1,0 +1,396 @@
+Return-Path: <no-reply@mail.instagram.com>
+Delivered-To: info@ai-jewelly.com
+Received: from virusgw1.netowl.jp (virusgw1.netowl.jp [157.112.191.243])
+	by sv50.star.ne.jp (Postfix) with ESMTP id 97CF4383195E79
+	for <info@ai-jewelly.com>; Sun, 29 Nov 2020 21:01:45 +0900 (JST)
+Received: from sv50.star.ne.jp (157.112.187.71)
+ by virusgw1.netowl.jp (F-Secure/fsigk_smtp/521/virusgw1.netowl.jp);
+ Sun, 29 Nov 2020 21:01:45 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/521/virusgw1.netowl.jp)
+Received: from 69-171-232-138.mail-mail.facebook.com (69-171-232-138.mail-mail.facebook.com [69.171.232.138])
+	by sv50.star.ne.jp (Postfix) with ESMTPS id 13380383195E59
+	for <info@ai-jewelly.com>; Sun, 29 Nov 2020 21:01:44 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.instagram.com;
+	s=s1024-2013-q3; t=1606651291;
+	bh=qlxZ2EzwONVKnx7klGhm/i565c4r+atES4dZNjPrn4g=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=QrOrMXjQEE8RIlNlzXuPNkvYjKo8GBKGrVxwlNZT7m0sI7zuvRy+mRJfoPzV34OoO
+	 WLgePd0Ies5/nR6txGTmnyFItds2qVX2pkt+2QTf1GydJUk1Y90cW3HEx0gHT85wKN
+	 id9Z8BdXXGRzxAddIWa8TQ5kBs3bm6y7xYuMHaTE=
+X-Facebook: from 2401:db00:2070:5104:face:0:1c:0 ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTPS (ZuckMail);
+Date: Sun, 29 Nov 2020 04:01:31 -0800
+To: info@ai-jewelly.com
+Subject: jose_13villalobos and 9 others started following you
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Instagram Antonio Villalobos" <no-reply@mail.instagram.com>
+Reply-to: Instagram <no-reply@mail.instagram.com>
+Errors-To: no-reply@mail.instagram.com
+X-Facebook-Notify: user_followed; mailid=5b53d5dec8035G24bc37401acb62G5b53da7828308Gb81
+List-Unsubscribe: <https://instagram.com/emails/unsubscribe/reminders?user_id=44646304610&sig=AU_XiaOpemCHIXjk>
+Feedback-ID: 9999:ig_email_text_platform:Facebook
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+Message-ID: <9edb9cd0323a11eb9fdeb02628aaed00-788ce7e0@mail.instagram.com>
+netowl-Filter: info@ai-jewelly.com
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style nonce=3D"5TyVStW2">@media =
+all and (max-width: 480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline =
+!important}*[class].d_mb_flex{display:block =
+!important}}.d_mb_show{display:none}.d_mb_flex{display:flex}@media only =
+screen and (max-device-width: 480px){.d_mb_hide{display:none =
+!important}.d_mb_show{display:block !important}.d_mb_flex{display:block =
+!important}}.mb_text h1,.mb_text h2,.mb_text h3,.mb_text h4,.mb_text =
+h5,.mb_text h6{line-height:normal}.mb_work_text =
+h1{font-size:18px;line-height:normal;margin-top:4px}.mb_work_text =
+h2,.mb_work_text =
+h3{font-size:16px;line-height:normal;margin-top:4px}.mb_work_text =
+h4,.mb_work_text h5,.mb_work_text =
+h6{font-size:14px;line-height:normal}.mb_work_text =
+a{color:#1270e9}.mb_work_text p{margin-top:4px}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" =
+id=3D"email_table" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;font-size:1px;"><span></span></span></td></tr><tr><=
+td style=3D""><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;border:solid 1px =
+white;margin:0 auto 5px auto;padding:3px =
+0;text-align:center;html_width:100%;width:430px;"><tr><td width=3D"16px" =
+style=3D"width:16px;"></td><td =
+style=3D"line-height:0px;width:400px;padding:0 0 15px 0;"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"width:100%;text-align:left;height:33px;"><a href=3D"https://www.i=
+nstagram.com/_n/mainfeed?utm_campaign=3Duser_followed&amp;utm_medium=3Dema=
+il&amp;target_user_id=3D44646304610&amp;ndid=3D5b53d5dec8035G24bc37401acb6=
+2G5b53da7828308Gb81" style=3D"color:#3b5998;text-decoration:none;"><img =
+height=3D"30" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/yb/r/QTa-gpOyYBa.png" =
+style=3D"border:0;" /></a></td><td =
+style=3D"line-height:18px;min-width:60px;text-align:right;"><a =
+href=3D"https://www.instagram.com/_n/user?utm_campaign=3Duser_followed&amp=
+;utm_medium=3Demail&amp;target_user_id=3D44646304610&amp;username=3Dai_jew=
+elly&amp;ndid=3D5b53d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://scontent=
+.cdninstagram.com/v/t51.2885-15/s150x150/123629438_260010042244584_6755344=
+069489138353_n.jpg?_nc_cat=3D103&amp;ccb=3D2&amp;_nc_sid=3D8ae9d6&amp;_nc_=
+ohc=3DycA2eTMd1_MAX_-uSvN&amp;_nc_ad=3Dz-m&amp;_nc_cid=3D0&amp;_nc_ht=3Dsc=
+ontent.cdninstagram.com&amp;tp=3D7&amp;oh=3De5a16d9aed70962b9265de07ff6009=
+2e&amp;oe=3D5FE910C4" width=3D"30" height=3D"30" =
+style=3D"border:0px;border-radius:18px;vertical-align:middle;" =
+/></a></td></tr></table></td><td width=3D"16px" =
+style=3D"width:16px;"></td></tr></table></td></tr><tr><td =
+style=3D""><table border=3D"0" width=3D"430" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;margin:0 auto 0 =
+auto;"><tr><td style=3D""><table border=3D"0" width=3D"430px" =
+cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collapse;line=
+-height:17px;font-size:14px;"><tr><td style=3D""><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><span =
+style=3D"color:#FFFFFF;font-size:1px;"><span></span></span><table =
+border=3D"0" width=3D"430px" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0 auto 0 =
+auto;text-align:center;"><tr><td style=3D"text-align:center;color:#565a5c;=
+font-size:18px;font-family:Helvetica =
+Neue,Helvetica,Roboto,Arial,sans-serif;"><p><span>ai_jewelly =E2=80=95 =
+=E6=96=B0=E8=A6=8F=E3=83=95=E3=82=A9=E3=83=AD=E3=83=AF=E3=83=BC10=E4=BA=BA=
+=E3=82=92=E7=8D=B2=E5=BE=97=E3=81=97=E3=81=BE=E3=81=97=E3=81=9F=E3=80=82</=
+span></p></td></tr></table></tr><tr><table border=3D"0" width=3D"400px" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0 auto 0 auto;width:400px;"><tr =
+style=3D""><tr style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr><td style=3D""><a =
+href=3D"https://www.instagram.com/_n/user?utm_campaign=3Duser_followed&amp=
+;utm_medium=3Demail&amp;target_user_id=3D7269201817&amp;username=3Djose_13=
+villalobos&amp;ndid=3D5b53d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"width:60px;"><img =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/123930354_=
+3430427550516499_7734549254703574264_n.jpg?_nc_ht=3Dscontent.cdninstagram.=
+com&amp;_nc_ohc=3D47KNsaH61EkAX_fJvDx&amp;tp=3D1&amp;oh=3D590113cde70535c7=
+827f7e58e5de23f2&amp;oe=3D5FEED12F" width=3D"60" height=3D"60" =
+style=3D"border:0;border-radius:35px;" /></td><td width=3D"10" =
+style=3D"display:block;width:10px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><td style=3D"font-size:14px;color:#999999;width:270px;font-fami=
+ly:SFUIText-Regular, Roboto, Segoe, Helvetica Neue, Helvetica,
+    Arial, sans-serif;"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"color:black;"><b>jose_13villalobos</b></td></tr><tr><td =
+style=3D"">Antonio Villalobos</td></tr></table></td></td><td =
+style=3D""><td style=3D""><a href=3D"https://www.instagram.com/_n/user?utm=
+_campaign=3Duser_followed&amp;utm_medium=3Demail&amp;target_user_id=3D7269=
+201817&amp;username=3Djose_13villalobos&amp;ndid=3D5b53d5dec8035G24bc37401=
+acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;float:right;"><table =
+border=3D"0" width=3D"100px" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:3px;text-align:center;display:block;border:solid 1px =
+#009fdf;padding:5px 10px 6px 10px;margin:0 2px 0 =
+auto;min-width:80px;background-color:#47A2EA;"><a href=3D"https://www.inst=
+agram.com/_n/user?utm_campaign=3Duser_followed&amp;utm_medium=3Demail&amp;=
+target_user_id=3D7269201817&amp;username=3Djose_13villalobos&amp;ndid=3D5b=
+53d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"2"><span style=3D"font-family:Helvetica Neue,Helvetica,Roboto,Aria=
+l,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;col=
+or:#fdfdfd;font-size:12px;line-height:12px;">=E3=83=97=E3=83=AD=E3=83=95=
+=E3=82=A3=E3=83=BC=E3=83=AB=E3=82=92=E8=A6=8B=E3=82=8B</span></font></cent=
+er></a></td></tr></table></a></td></td></tr></table></a></td><tr =
+style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr></tr><tr style=3D""><tr =
+style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr><td style=3D""><a =
+href=3D"https://www.instagram.com/_n/user?utm_campaign=3Duser_followed&amp=
+;utm_medium=3Demail&amp;target_user_id=3D6951065226&amp;username=3Dbumulin=
+g2481&amp;ndid=3D5b53d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"width:60px;"><img =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/124871844_=
+1252228278487562_5309239095979082922_n.jpg?_nc_ht=3Dscontent.cdninstagram.=
+com&amp;_nc_ohc=3D-XplBymylAoAX8EvkCh&amp;tp=3D1&amp;oh=3Dc3af9dcc00906175=
+1428387ef6f899b7&amp;oe=3D5FED6907" width=3D"60" height=3D"60" =
+style=3D"border:0;border-radius:35px;" /></td><td width=3D"10" =
+style=3D"display:block;width:10px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><td style=3D"font-size:14px;color:#999999;width:270px;font-fami=
+ly:SFUIText-Regular, Roboto, Segoe, Helvetica Neue, Helvetica,
+    Arial, sans-serif;"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"color:black;"><b>bumuling2481</b></td></tr><tr><td =
+style=3D"">=E3=81=82=E3=82=84</td></tr></table></td></td><td =
+style=3D""><td style=3D""><a href=3D"https://www.instagram.com/_n/user?utm=
+_campaign=3Duser_followed&amp;utm_medium=3Demail&amp;target_user_id=3D6951=
+065226&amp;username=3Dbumuling2481&amp;ndid=3D5b53d5dec8035G24bc37401acb62=
+G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;float:right;"><table =
+border=3D"0" width=3D"100px" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:3px;text-align:center;display:block;border:solid 1px =
+#009fdf;padding:5px 10px 6px 10px;margin:0 2px 0 =
+auto;min-width:80px;background-color:#47A2EA;"><a href=3D"https://www.inst=
+agram.com/_n/user?utm_campaign=3Duser_followed&amp;utm_medium=3Demail&amp;=
+target_user_id=3D6951065226&amp;username=3Dbumuling2481&amp;ndid=3D5b53d5d=
+ec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"2"><span style=3D"font-family:Helvetica Neue,Helvetica,Roboto,Aria=
+l,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;col=
+or:#fdfdfd;font-size:12px;line-height:12px;">=E3=83=97=E3=83=AD=E3=83=95=
+=E3=82=A3=E3=83=BC=E3=83=AB=E3=82=92=E8=A6=8B=E3=82=8B</span></font></cent=
+er></a></td></tr></table></a></td></td></tr></table></a></td><tr =
+style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr></tr><tr style=3D""><tr =
+style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr><td style=3D""><a =
+href=3D"https://www.instagram.com/_n/user?utm_campaign=3Duser_followed&amp=
+;utm_medium=3Demail&amp;target_user_id=3D4717387649&amp;username=3Dusj100&=
+amp;ndid=3D5b53d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"width:60px;"><img =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/31556554_1=
+781812355173428_2741500341118828544_n.jpg?_nc_ht=3Dscontent.cdninstagram.c=
+om&amp;_nc_ohc=3D1iHwoEzm47AAX-iZD2F&amp;tp=3D1&amp;oh=3Dceb8f82ea419b75ce=
+3c2fb28b18c07a2&amp;oe=3D5FEE5E28" width=3D"60" height=3D"60" =
+style=3D"border:0;border-radius:35px;" /></td><td width=3D"10" =
+style=3D"display:block;width:10px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><td style=3D"font-size:14px;color:#999999;width:270px;font-fami=
+ly:SFUIText-Regular, Roboto, Segoe, Helvetica Neue, Helvetica,
+    Arial, sans-serif;"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"color:black;"><b>usj100</b></td></tr><tr><td =
+style=3D"">USJ=E3=81=AE=E3=83=84=E3=83=9B=E3=82=99=E5=85=AC=E5=BC=8F=EF=BC=
+=88=E7=9B=B8=E4=BA=92=E3=83=95=E3=82=A9=E3=83=AD=E3=83=BC100%=EF=BC=89</td=
+></tr></table></td></td><td style=3D""><td style=3D""><a =
+href=3D"https://www.instagram.com/_n/user?utm_campaign=3Duser_followed&amp=
+;utm_medium=3Demail&amp;target_user_id=3D4717387649&amp;username=3Dusj100&=
+amp;ndid=3D5b53d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;float:right;"><table =
+border=3D"0" width=3D"100px" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:3px;text-align:center;display:block;border:solid 1px =
+#009fdf;padding:5px 10px 6px 10px;margin:0 2px 0 =
+auto;min-width:80px;background-color:#47A2EA;"><a href=3D"https://www.inst=
+agram.com/_n/user?utm_campaign=3Duser_followed&amp;utm_medium=3Demail&amp;=
+target_user_id=3D4717387649&amp;username=3Dusj100&amp;ndid=3D5b53d5dec8035=
+G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"2"><span style=3D"font-family:Helvetica Neue,Helvetica,Roboto,Aria=
+l,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;col=
+or:#fdfdfd;font-size:12px;line-height:12px;">=E3=83=97=E3=83=AD=E3=83=95=
+=E3=82=A3=E3=83=BC=E3=83=AB=E3=82=92=E8=A6=8B=E3=82=8B</span></font></cent=
+er></a></td></tr></table></a></td></td></tr></table></a></td><tr =
+style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr></tr><tr style=3D""><tr =
+style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr><td style=3D""><a =
+href=3D"https://www.instagram.com/_n/user?utm_campaign=3Duser_followed&amp=
+;utm_medium=3Demail&amp;target_user_id=3D44362097553&amp;username=3Dsougof=
+ollow6363&amp;ndid=3D5b53d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"width:60px;"><img =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/126069449_=
+653736838614805_4135563270448714662_n.jpg?_nc_ht=3Dscontent.cdninstagram.c=
+om&amp;_nc_ohc=3DsNRUyMBjypgAX_4ujgH&amp;tp=3D1&amp;oh=3D19d25dc88df091517=
+c9cf5943b2060c9&amp;oe=3D5FEC6708" width=3D"60" height=3D"60" =
+style=3D"border:0;border-radius:35px;" /></td><td width=3D"10" =
+style=3D"display:block;width:10px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><td style=3D"font-size:14px;color:#999999;width:270px;font-fami=
+ly:SFUIText-Regular, Roboto, Segoe, Helvetica Neue, Helvetica,
+    Arial, sans-serif;"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"color:black;"><b>sougofollow6363</b></td></tr><tr><td =
+style=3D"">=E7=9B=B8=E4=BA=92=E3=83=95=E3=82=A9=E3=83=AD=E3=83=BC100%=E9=
+=9F=B3=E6=A5=BD=E5=A5=BD=E3=81=8D</td></tr></table></td></td><td =
+style=3D""><td style=3D""><a href=3D"https://www.instagram.com/_n/user?utm=
+_campaign=3Duser_followed&amp;utm_medium=3Demail&amp;target_user_id=3D4436=
+2097553&amp;username=3Dsougofollow6363&amp;ndid=3D5b53d5dec8035G24bc37401a=
+cb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;float:right;"><table =
+border=3D"0" width=3D"100px" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:3px;text-align:center;display:block;border:solid 1px =
+#009fdf;padding:5px 10px 6px 10px;margin:0 2px 0 =
+auto;min-width:80px;background-color:#47A2EA;"><a href=3D"https://www.inst=
+agram.com/_n/user?utm_campaign=3Duser_followed&amp;utm_medium=3Demail&amp;=
+target_user_id=3D44362097553&amp;username=3Dsougofollow6363&amp;ndid=3D5b5=
+3d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"2"><span style=3D"font-family:Helvetica Neue,Helvetica,Roboto,Aria=
+l,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;col=
+or:#fdfdfd;font-size:12px;line-height:12px;">=E3=83=97=E3=83=AD=E3=83=95=
+=E3=82=A3=E3=83=BC=E3=83=AB=E3=82=92=E8=A6=8B=E3=82=8B</span></font></cent=
+er></a></td></tr></table></a></td></td></tr></table></a></td><tr =
+style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr></tr><tr style=3D""><tr =
+style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr><td style=3D""><a =
+href=3D"https://www.instagram.com/_n/user?utm_campaign=3Duser_followed&amp=
+;utm_medium=3Demail&amp;target_user_id=3D37495196114&amp;username=3Dhttp.f=
+abian_00&amp;ndid=3D5b53d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;"><table border=3D"0" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"width:60px;"><img =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/125826330_=
+367142717709368_6381356515961715860_n.jpg?_nc_ht=3Dscontent.cdninstagram.c=
+om&amp;_nc_ohc=3DMmVjg1XjCSQAX_gfhYh&amp;tp=3D1&amp;oh=3D517f780ab91db0d4d=
+b09edc24856bdfc&amp;oe=3D5FEF0987" width=3D"60" height=3D"60" =
+style=3D"border:0;border-radius:35px;" /></td><td width=3D"10" =
+style=3D"display:block;width:10px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><td style=3D"font-size:14px;color:#999999;width:270px;font-fami=
+ly:SFUIText-Regular, Roboto, Segoe, Helvetica Neue, Helvetica,
+    Arial, sans-serif;"><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"color:black;"><b>http.fabian_00</b></td></tr><tr><td =
+style=3D"">Fabian</td></tr></table></td></td><td style=3D""><td =
+style=3D""><a href=3D"https://www.instagram.com/_n/user?utm_campaign=3Duse=
+r_followed&amp;utm_medium=3Demail&amp;target_user_id=3D37495196114&amp;use=
+rname=3Dhttp.fabian_00&amp;ndid=3D5b53d5dec8035G24bc37401acb62G5b53da78283=
+08Gb81" style=3D"color:#3b5998;text-decoration:none;float:right;"><table =
+border=3D"0" width=3D"100px" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:3px;text-align:center;display:block;border:solid 1px =
+#009fdf;padding:5px 10px 6px 10px;margin:0 2px 0 =
+auto;min-width:80px;background-color:#47A2EA;"><a href=3D"https://www.inst=
+agram.com/_n/user?utm_campaign=3Duser_followed&amp;utm_medium=3Demail&amp;=
+target_user_id=3D37495196114&amp;username=3Dhttp.fabian_00&amp;ndid=3D5b53=
+d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"2"><span style=3D"font-family:Helvetica Neue,Helvetica,Roboto,Aria=
+l,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;col=
+or:#fdfdfd;font-size:12px;line-height:12px;">=E3=83=97=E3=83=AD=E3=83=95=
+=E3=82=A3=E3=83=BC=E3=83=AB=E3=82=92=E8=A6=8B=E3=82=8B</span></font></cent=
+er></a></td></tr></table></a></td></td></tr></table></a></td><tr =
+style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr></tr></table></tr><tr><table =
+border=3D"0" width=3D"430px" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:430px;"><tr><tr style=3D""><td =
+height=3D"10" style=3D"line-height:10px;">&nbsp;</td></tr></tr><tr><tr =
+style=3D""><td height=3D"10" =
+style=3D"line-height:10px;">&nbsp;</td></tr></tr><tr><table border=3D"0" =
+width=3D"400px" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0 auto 0 =
+auto;width:400px;"><tr><td width=3D"100%" style=3D""><a =
+href=3D"https://www.instagram.com/_n/news?target_user_id=3D44646304610&amp=
+;utm_campaign=3Duser_followed&amp;click_source=3Dcta&amp;utm_source=3Dinst=
+agram&amp;utm_medium=3Demail&amp;ndid=3D5b53d5dec8035G24bc37401acb62G5b53d=
+a7828308Gb81" style=3D"color:#3b5998;text-decoration:none;display:block;wi=
+dth:400px;"><table border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"border-collapse:collapse;border-radius:5px;text-align:center;disp=
+lay:block;border:solid 1px #dbdbdb;padding:10px 16px 14px =
+16px;min-width:80px;background-color:white;"><a href=3D"https://www.instag=
+ram.com/_n/news?target_user_id=3D44646304610&amp;utm_campaign=3Duser_follo=
+wed&amp;click_source=3Dcta&amp;utm_source=3Dinstagram&amp;utm_medium=3Dema=
+il&amp;ndid=3D5b53d5dec8035G24bc37401acb62G5b53da7828308Gb81" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Roboto,Aria=
+l,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;col=
+or:#363636;font-size:16px;line-height:16px;">View&nbsp;all</span></font></=
+center></a></td></tr></table></a></td></tr></table></tr></table></tr></tab=
+le></td></tr></table></td></tr></table></td></tr><tr><td style=3D""><table =
+border=3D"0" width=3D"394px" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0 auto 0 auto;width:394px;"><tr =
+style=3D""><td height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"3">&nbsp;</td></tr><tr align=3D"left"><td width=3D"20" =
+style=3D"display:block;width:20px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D"text-align:center;"><div style=3D"padding-top:10px;"><img =
+class=3D"img" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/pTeXjRdVk8c.png" =
+height=3D"30" width=3D"77" alt=3D"" /><br /></div><div =
+style=3D"height:10px;"></div><div =
+style=3D"color:#abadae;font-size:11px;margin:0 auto 5px auto;">=C2=A9 =
+Instagram. Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025</div><div =
+style=3D"color:#abadae;font-size:11px;margin:0 auto 5px =
+auto;">=E3=81=93=E3=81=AE=E3=83=A1=E3=83=83=E3=82=BB=E3=83=BC=E3=82=B8=E3=
+=81=AFai_jewelly=E5=90=91=E3=81=91=E3=81=AB<a style=3D"color:#abadae;text-=
+decoration:underline;">info&#064;ai-jewelly.com</a>=E3=81=AB=E9=80=81=E4=
+=BF=A1=E3=81=95=E3=82=8C=E3=81=9F=E3=82=82=E3=81=AE=E3=81=A7=E3=81=99=E3=
+=80=82=E3=81=93=E3=82=8C=E3=81=AFInstagram=E3=81=AE=E6=9C=80=E6=96=B0=E6=
+=83=85=E5=A0=B1=E3=81=AB=E9=96=A2=E3=81=99=E3=82=8B=E3=83=80=E3=82=A4=E3=
+=82=B8=E3=82=A7=E3=82=B9=E3=83=88=E3=83=A1=E3=83=BC=E3=83=AB=E3=81=A7=E3=
+=81=99=E3=80=82=E3=81=93=E3=81=AE=E3=82=88=E3=81=86=E3=81=AA=E3=83=A1=E3=
+=83=BC=E3=83=AB=E3=82=92=E5=8F=97=E3=81=91=E5=8F=96=E3=82=8A=E3=81=9F=E3=
+=81=8F=E3=81=AA=E3=81=84=E5=A0=B4=E5=90=88=E3=81=AF=E3=80=81<a =
+href=3D"https://instagram.com/emails/unsubscribe/reminders?user_id=3D44646=
+304610&amp;sig=3DAU_XiaOpemCHIXjk" style=3D"color:#abadae;text-decoration:=
+underline;">=E9=85=8D=E4=BF=A1=E3=82=92=E5=81=9C=E6=AD=A2</a>=E3=81=97=E3=
+=81=A6=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84=E3=80=82=E3=81=BE=E3=81=9F=E3=
+=80=81=E3=81=93=E3=82=8C=E3=81=8C=E3=81=82=E3=81=AA=E3=81=9F=E3=81=AEInsta=
+gram=E3=82=A2=E3=82=AB=E3=82=A6=E3=83=B3=E3=83=88=E3=81=A7=E3=81=AF=E3=81=
+=AA=E3=81=84=E5=A0=B4=E5=90=88=E3=81=AF=E3=80=81=E3=81=93=E3=81=AE=E3=82=
+=A2=E3=82=AB=E3=82=A6=E3=83=B3=E3=83=88=E3=81=8B=E3=82=89<a =
+href=3D"https://instagram.com/accounts/remove/report_wrong_email/kid9942/5=
+m0-af58ac2db88b91419f550f982ef6f872/e3nIc0uv/aW5mb0BhaS1qZXdlbGx5LmNvbQ/" =
+style=3D"color:#abadae;text-decoration:underline;">=E3=83=A1=E3=83=BC=E3=
+=83=AB=E3=82=A2=E3=83=89=E3=83=AC=E3=82=B9=E3=82=92=E5=89=8A=E9=99=A4</a>=
+=E3=81=97=E3=81=A6=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84=E3=80=82<br =
+/></div></td><td width=3D"20" style=3D"display:block;width:20px;">&nbsp;&n=
+bsp;&nbsp;</td></tr></table></td></tr><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr></table><span =
+style=3D""><img src=3D"https://www.facebook.com/email_open_log_pic.php?mid=
+=3D5b53d5dec8035G24bc37401acb62G5b53da7828308Gb81&amp;ig_notification_type=
+=3D101" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+

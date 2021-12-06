@@ -1,0 +1,19 @@
+include "../../.log"
+
+
+include "./.trigger"
+
+
+include "../../.flag"
+
+
+include "../../.spam"
+
+
+include "../../.filter"
+
+
+include "./.autoreply"
+
+
+include "./.alias"

@@ -1,0 +1,59 @@
+Return-Path: <rainrain20151111@gmail.com>
+Delivered-To: info@ai-jewelly.com
+Received: from virusgw1.netowl.jp (virusgw1.netowl.jp [157.112.191.243])
+	by sv50.star.ne.jp (Postfix) with ESMTP id 2040E38328932A
+	for <info@ai-jewelly.com>; Mon, 11 Jan 2021 23:20:36 +0900 (JST)
+Received: from sv50.star.ne.jp (157.112.187.71)
+ by virusgw1.netowl.jp (F-Secure/fsigk_smtp/521/virusgw1.netowl.jp);
+ Mon, 11 Jan 2021 23:20:35 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/521/virusgw1.netowl.jp)
+Received: from mail-ot1-f53.google.com (mail-ot1-f53.google.com [209.85.210.53])
+	by sv50.star.ne.jp (Postfix) with ESMTPS id C474B384CB5C36
+	for <info@ai-jewelly.com>; Mon, 11 Jan 2021 23:20:35 +0900 (JST)
+Received: by mail-ot1-f53.google.com with SMTP id j20so17004819otq.5
+        for <info@ai-jewelly.com>; Mon, 11 Jan 2021 06:20:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=64BQ+hNlkl1mxu0rOrFD2ZXSNEvGoo3gbERHu0X8MXU=;
+        b=PWoLcZtfwTCplasfTSFC3c/wj1uUsXsK5uCNHn67rkv6r2InBipzq9f9ULWlLu3wkJ
+         9W8FurG/kzxPd9jkNuKudmfD2RhWSGpKJuN7WP0m06TFa4gaaSAri7mVidhqcbt7EHUE
+         Frc5TawIemsqItgOy6ETZGv4OEbE5vlsdAh1csPMKU9j8aqoY2qSWJpjIIpnZnlflIbU
+         k/dcRKBAbiCbpcQYgJQAAGmBPRGs4Qpk/PEOsQSPku/IJUAc3wTMmJ58e4yiaBwSCwnQ
+         K0jnlMvMfDA5v1IZKja/kvmtDZc5T1k669csDusulqyCgnm9qU+QR8Wx+qlilsSwzJQF
+         LcyA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=64BQ+hNlkl1mxu0rOrFD2ZXSNEvGoo3gbERHu0X8MXU=;
+        b=WI4U/hPBxtKuZkwEaJ4/p70+E2T+rzcxUFGq5FQf0L401HarNMaQlyEAob/l1m2kaO
+         qwkeRDUiGOZfK0sADGNa5soahly8bo/RuW3kzQ6leB2wfzp5ZkpnbeHPbDQXaKKw+Lyg
+         dfHrlj9Cldo3jKyqAMPUOuD1pVzFZ4nWVd3A1RM1sBxKofcaBK8sYGcTV11D5o5tQ2f6
+         0/hfAk22d5QZlBG9A23lhaoX/NJ7iq0HEdyI+Eflw9SR+OxfmaC+6lGxr+oM2jmmjhp/
+         p/2WZcMxaqjv2Cd5Jdt5Td1KGhRxi2SeSeFqtRNWIPkrB8S4zONCt8XUNMPvXnvuLeii
+         0R0w==
+X-Gm-Message-State: AOAM530rLm6LKPTDE4gJ+qWyhli1oFmH/5PTVwnbv0rAuVRXhCFuST3L
+	ZrkoEGBxYfTmhdLNM+QuoMTWoRAFy5wo190qyGk16Bsa
+X-Google-Smtp-Source: ABdhPJwAAg41Hjp739tO/BHO8uplRCjwesRKnDY5MFEDtBSaK5j7NPqpayULXxnrloinPj3oYBsykzkHwei6QaOdWYQ=
+X-Received: by 2002:a9d:d8a:: with SMTP id 10mr10897245ots.11.1610374833464;
+ Mon, 11 Jan 2021 06:20:33 -0800 (PST)
+MIME-Version: 1.0
+From: =?UTF-8?B?5qCq5byP5Lya56S+UkFJTg==?= <rainrain20151111@gmail.com>
+Date: Mon, 11 Jan 2021 23:20:21 +0900
+Message-ID: <CANdSJ12YNA4u2uVy_8AH3onzhDphCSJ3iXeKVGU=gbWcVM+Ssw@mail.gmail.com>
+Subject: test
+To: info@ai-jewelly.com
+Content-Type: multipart/alternative; boundary="000000000000e767b805b8a09b94"
+netowl-Filter: info@ai-jewelly.com
+
+--000000000000e767b805b8a09b94
+Content-Type: text/plain; charset="UTF-8"
+
+
+
+--000000000000e767b805b8a09b94
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr"><br></div>
+
+--000000000000e767b805b8a09b94--

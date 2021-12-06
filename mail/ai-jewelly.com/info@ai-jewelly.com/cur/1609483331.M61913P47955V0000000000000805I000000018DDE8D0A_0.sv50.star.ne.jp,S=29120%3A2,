@@ -1,0 +1,435 @@
+Return-Path: <no-reply@mail.instagram.com>
+Delivered-To: info@ai-jewelly.com
+Received: from virusgw1.netowl.jp (virusgw1.netowl.jp [157.112.191.243])
+	by sv50.star.ne.jp (Postfix) with ESMTP id DED5B38A086A52
+	for <info@ai-jewelly.com>; Fri,  1 Jan 2021 15:42:10 +0900 (JST)
+Received: from sv50.star.ne.jp (157.112.187.71)
+ by virusgw1.netowl.jp (F-Secure/fsigk_smtp/521/virusgw1.netowl.jp);
+ Fri, 01 Jan 2021 15:42:10 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/521/virusgw1.netowl.jp)
+Received: from 66-220-155-156.mail-mail.facebook.com (66-220-155-156.mail-mail.facebook.com [66.220.155.156])
+	by sv50.star.ne.jp (Postfix) with ESMTPS id 56A3D38A086A45
+	for <info@ai-jewelly.com>; Fri,  1 Jan 2021 15:42:09 +0900 (JST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.instagram.com;
+	s=s1024-2013-q3; t=1609483314;
+	bh=DKEv7y0U/HbyXFi8ooBhqWdThzLnzz/ksNkX1v3BdtM=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=hafBqd03NvT3jTfEsftzKBC2vHOt/mpFZA9Vs4gvZwQofMYPz98PJ7eMd8jn5Jgy1
+	 qHzPJmFbhur/+xcoXbk6Nsaa6OaGMylP/5ZiwIow8/IE0pSL9sq/vegQrsa0NgYKuf
+	 GuWmifU7caMyDeY1DWTpQydUrJhEiqCSM0DOo5rg=
+X-Facebook: from 2401:db00:231c:571b:face:0:a0:0 ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTPS (ZuckMail);
+Date: Thu, 31 Dec 2020 22:41:54 -0800
+To: info@ai-jewelly.com
+Subject: =?UTF-8?B?YWlfamV3ZWxseSDigJUg44OV44Kj?=
+ =?UTF-8?B?44O844OJ44Gn5rC455Sw576O5rKZ44CBbmFv44Gq44Gp44KS44OB?=
+ =?UTF-8?B?44Kn44OD44Kv44GX44KI44GG?=
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Instagram" <no-reply@mail.instagram.com>
+Reply-to: Instagram <no-reply@mail.instagram.com>
+Errors-To: no-reply@mail.instagram.com
+X-Facebook-Notify: find_friend_activity; mailid=5b7d0bfa9507aG24bc37401acb62G5b7d1093f534dGb81
+List-Unsubscribe: <https://instagram.com/emails/unsubscribe/reminders?user_id=44646304610&sig=AU_XiaOpemCHIXjk>
+Feedback-ID: 9999:ig_email_text_platform:Facebook
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+Message-ID: <7020d0644bfc11eba0a398039bc67226-120607e0@mail.instagram.com>
+netowl-Filter: info@ai-jewelly.com
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style nonce=3D"1N5fPw5z">@media =
+all and (max-width: 480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline =
+!important}*[class].d_mb_flex{display:block =
+!important}}.d_mb_show{display:none}.d_mb_flex{display:flex}@media only =
+screen and (max-device-width: 480px){.d_mb_hide{display:none =
+!important}.d_mb_show{display:block !important}.d_mb_flex{display:block =
+!important}}.mb_text h1,.mb_text h2,.mb_text h3,.mb_text h4,.mb_text =
+h5,.mb_text h6{line-height:normal}.mb_work_text =
+h1{font-size:18px;line-height:normal;margin-top:4px}.mb_work_text =
+h2,.mb_work_text =
+h3{font-size:16px;line-height:normal;margin-top:4px}.mb_work_text =
+h4,.mb_work_text h5,.mb_work_text =
+h6{font-size:14px;line-height:normal}.mb_work_text =
+a{color:#1270e9}.mb_work_text p{margin-top:4px}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" =
+id=3D"email_table" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;font-size:1px;"><span></span></span></td></tr><tr><=
+td style=3D""><table border=3D"0" width=3D"394px" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;margin:12px;"><tr><td =
+style=3D""><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0 auto;"><tr><td =
+style=3D""><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"width:394px =
+!important;"><a href=3D"https://www.instagram.com/_n/mainfeed?utm_campaign=
+=3Dfind_friend_activity_email&amp;target_user_id=3D44646304610&amp;click_s=
+ource=3Dheader_icon&amp;utm_source=3Dinstagram&amp;utm_medium=3Demail&amp;=
+token=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp;bypass=3D1" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://www.inst=
+agram.com/static/images/bloks/assets/email/email_header_icon.png/b605021e6=
+1c6.png" height=3D"30" style=3D"border:0;" /></a></td><td =
+style=3D"width:36px !important;"><a href=3D"https://www.instagram.com/_n/u=
+ser?username=3Dai_jewelly&amp;utm_campaign=3Dfind_friend_activity_email&am=
+p;target_user_id=3D44646304610&amp;click_source=3Dheader_profile&amp;utm_s=
+ource=3Dinstagram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3D=
+kid9942&amp;bypass=3D1" style=3D"color:#3b5998;text-decoration:none;"><img =
+style=3D"border:0;border-radius:36px;" src=3D"https://scontent.cdninstagra=
+m.com/v/t51.2885-19/s150x150/123629438_260010042244584_6755344069489138353=
+_n.jpg?_nc_ht=3Dscontent.cdninstagram.com&amp;_nc_ohc=3Db88g2fjpNUgAX8tN9Q=
+3&amp;tp=3D1&amp;oh=3Dc8b87aa622983e9ce43dff1e9019c61d&amp;oe=3D60186508" =
+height=3D"36" /></a></td></tr></table></td></tr></table><a =
+href=3D"https://www.instagram.com/_n/mainfeed?utm_campaign=3Dfind_friend_a=
+ctivity_email&amp;target_user_id=3D44646304610&amp;click_source=3Dcta&amp;=
+utm_source=3Dinstagram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;u=
+id=3Dkid9942&amp;bypass=3D1" =
+style=3D"color:#3b5998;text-decoration:none;"><p style=3D"margin: 20px 0; =
+font-size: 20px; line-height: 24px; color: #262626; font-family: SF Pro =
+Text, Roboto, Helvetica Neue, Helvetica; text-align: center; =
+letter-spacing: -0.064px; ">=E6=B0=B8=E7=94=B0=E7=BE=8E=E6=B2=99=E3=82=84n=
+ao=E3=81=AA=E3=81=A9=E3=82=92=E3=83=95=E3=82=A9=E3=83=AD=E3=83=BC=E3=81=97=
+=E3=81=A6=E3=80=81=E5=8F=8B=E9=81=94=E3=81=AE=E5=86=99=E7=9C=9F=E3=82=84=
+=E5=8B=95=E7=94=BB=E3=82=92=E3=83=81=E3=82=A7=E3=83=83=E3=82=AF=E3=81=97=
+=E3=82=88=E3=81=86=E3=80=82</p></a><a href=3D"https://www.instagram.com/_n=
+/mainfeed?utm_campaign=3Dfind_friend_activity_email&amp;target_user_id=3D4=
+4646304610&amp;click_source=3Dcta&amp;utm_source=3Dinstagram&amp;utm_mediu=
+m=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp;bypass=3D1" =
+style=3D"color:#3b5998;text-decoration:none;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0px =
+auto;background-color:#3797F0;border-radius:4px;"><tr><td =
+style=3D"width:394px;height:44px;min-width:394px;min-height:44px;"><div><p =
+style=3D"text-align: center; font-family: SFUIText-Regular, Roboto, Segoe, =
+Helvetica Neue, Helvetica, Arial, sans-serif; color: white; margin: auto; =
+font-weight: 600; line-height: 17px; font-size: 15px; =
+">Instagram=E3=82=92=E9=96=8B=E3=81=8F</p></div></td></tr></table></a><div =
+style=3D"background-color: #F9F9F9; text-align: center; margin: 16px 0 =
+32px 0; padding: 11px 0; "><a href=3D"https://www.instagram.com/_n/user?us=
+ername=3Dtiandaomeisha&amp;target_user_id=3D44646304610&amp;utm_campaign=
+=3Dfind_friend_activity_email&amp;click_source=3Duser&amp;utm_source=3Dins=
+tagram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp=
+;bypass=3D1" style=3D"color:#3b5998;text-decoration:none;"><div =
+style=3D"background: #ffffff; border-color: #d8d8d9; border-width: 1px; =
+border-radius: 10px; border-style: solid; box-shadow: 0 1px 1px rgba(0, 0, =
+0, 0.10); margin: 2px; display: inline-block; width: 180px; height: 250px; =
+vertical-align: bottom; "><img =
+style=3D"border:0;border-radius:40px;display:block;margin:14px auto 0;" =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/91610238_8=
+96454640827986_5462776875241701376_n.jpg?_nc_ht=3Dscontent.cdninstagram.co=
+m&amp;_nc_ohc=3D8UE20_lys3EAX_pQx6l&amp;tp=3D1&amp;oh=3Db291ad9338e4ba33db=
+1d2e1fad98c761&amp;oe=3D6017ED52" height=3D"80px" width=3D"80px" =
+border=3D"0" /><p style=3D"display: block; font-size: 14px; line-height: =
+19px; max-height: 19px; overflow: hidden; margin: 8px 14px 2px 14px; =
+text-align: center; color: #262626; font-family: SFUIText-Semibold, =
+Roboto, Segoe, Helvetica Neue, Helvetica, Arial, sans-serif; =
+">=E6=B0=B8=E7=94=B0=E7=BE=8E=E6=B2=99</p><div style=3D"display: block; =
+font-size: 12px; line-height: 16px; text-align: center; margin: 0 14px; =
+height: 50px; color: #999999; font-family: SFUIText-Regular, Roboto, =
+Segoe, Helvetica Neue, Helvetica, Arial, sans-serif; "><p =
+style=3D"display:inline;">=E3=81=8A=E3=81=99=E3=81=99=E3=82=81</p></div><d=
+iv style=3D"display: block; margin: 21px 0 14px 0; "><a =
+href=3D"https://www.instagram.com/_n/user?username=3Dtiandaomeisha&amp;tar=
+get_user_id=3D44646304610&amp;utm_campaign=3Dfind_friend_activity_email&am=
+p;click_source=3Duser&amp;utm_source=3Dinstagram&amp;utm_medium=3Demail&am=
+p;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp;bypass=3D1" =
+style=3D"color:#3b5998;text-decoration:none;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0px =
+auto;background-color:#3797F0;border-radius:4px;"><tr><td =
+style=3D"width:128px;height:28px;min-width:128px;min-height:28px;"><div><p =
+style=3D"text-align: center; font-family: SFUIText-Regular, Roboto, Segoe, =
+Helvetica Neue, Helvetica, Arial, sans-serif; color: white; margin: auto; =
+font-weight: 600; line-height: 17px; font-size: 15px; =
+">=E3=83=95=E3=82=A9=E3=83=AD=E3=83=BC=E3=81=99=E3=82=8B</p></div></td></t=
+r></table></a></div></div></a><a href=3D"https://www.instagram.com/_n/user=
+?username=3Dnaao.xx&amp;target_user_id=3D44646304610&amp;utm_campaign=3Dfi=
+nd_friend_activity_email&amp;click_source=3Duser&amp;utm_source=3Dinstagra=
+m&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp;bypa=
+ss=3D1" style=3D"color:#3b5998;text-decoration:none;"><div =
+style=3D"background: #ffffff; border-color: #d8d8d9; border-width: 1px; =
+border-radius: 10px; border-style: solid; box-shadow: 0 1px 1px rgba(0, 0, =
+0, 0.10); margin: 2px; display: inline-block; width: 180px; height: 250px; =
+vertical-align: bottom; "><img =
+style=3D"border:0;border-radius:40px;display:block;margin:14px auto 0;" =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/71231982_6=
+85461878618037_37055410166824960_n.jpg?_nc_ht=3Dscontent.cdninstagram.com&=
+amp;_nc_ohc=3De07IA5rBh6UAX-_EOUH&amp;tp=3D1&amp;oh=3Daf0266554535ae94018d=
+05e5707535f3&amp;oe=3D601750A5" height=3D"80px" width=3D"80px" =
+border=3D"0" /><p style=3D"display: block; font-size: 14px; line-height: =
+19px; max-height: 19px; overflow: hidden; margin: 8px 14px 2px 14px; =
+text-align: center; color: #262626; font-family: SFUIText-Semibold, =
+Roboto, Segoe, Helvetica Neue, Helvetica, Arial, sans-serif; ">nao</p><div =
+style=3D"display: block; font-size: 12px; line-height: 16px; text-align: =
+center; margin: 0 14px; height: 50px; color: #999999; font-family: =
+SFUIText-Regular, Roboto, Segoe, Helvetica Neue, Helvetica, Arial, =
+sans-serif; "><p style=3D"display:inline;">=E3=81=8A=E3=81=99=E3=81=99=E3=
+=82=81</p></div><div style=3D"display: block; margin: 21px 0 14px 0; "><a =
+href=3D"https://www.instagram.com/_n/user?username=3Dnaao.xx&amp;target_us=
+er_id=3D44646304610&amp;utm_campaign=3Dfind_friend_activity_email&amp;clic=
+k_source=3Duser&amp;utm_source=3Dinstagram&amp;utm_medium=3Demail&amp;toke=
+n=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp;bypass=3D1" =
+style=3D"color:#3b5998;text-decoration:none;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0px =
+auto;background-color:#3797F0;border-radius:4px;"><tr><td =
+style=3D"width:128px;height:28px;min-width:128px;min-height:28px;"><div><p =
+style=3D"text-align: center; font-family: SFUIText-Regular, Roboto, Segoe, =
+Helvetica Neue, Helvetica, Arial, sans-serif; color: white; margin: auto; =
+font-weight: 600; line-height: 17px; font-size: 15px; =
+">=E3=83=95=E3=82=A9=E3=83=AD=E3=83=BC=E3=81=99=E3=82=8B</p></div></td></t=
+r></table></a></div></div></a><a href=3D"https://www.instagram.com/_n/user=
+?username=3Dnao_chan023&amp;target_user_id=3D44646304610&amp;utm_campaign=
+=3Dfind_friend_activity_email&amp;click_source=3Duser&amp;utm_source=3Dins=
+tagram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp=
+;bypass=3D1" style=3D"color:#3b5998;text-decoration:none;"><div =
+style=3D"background: #ffffff; border-color: #d8d8d9; border-width: 1px; =
+border-radius: 10px; border-style: solid; box-shadow: 0 1px 1px rgba(0, 0, =
+0, 0.10); margin: 2px; display: inline-block; width: 180px; height: 250px; =
+vertical-align: bottom; "><img =
+style=3D"border:0;border-radius:40px;display:block;margin:14px auto 0;" =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/28754541_1=
+979131845675588_6345923632786571264_n.jpg?_nc_ht=3Dscontent.cdninstagram.c=
+om&amp;_nc_ohc=3Dc_OeNgIR42cAX_-BXdb&amp;tp=3D1&amp;oh=3Dedc7ba58cf6eb928a=
+5c60520b5246ab8&amp;oe=3D60184825" height=3D"80px" width=3D"80px" =
+border=3D"0" /><p style=3D"display: block; font-size: 14px; line-height: =
+19px; max-height: 19px; overflow: hidden; margin: 8px 14px 2px 14px; =
+text-align: center; color: #262626; font-family: SFUIText-Semibold, =
+Roboto, Segoe, Helvetica Neue, Helvetica, Arial, sans-serif; =
+">=E3=81=AA</p><div style=3D"display: block; font-size: 12px; line-height: =
+16px; text-align: center; margin: 0 14px; height: 50px; color: #999999; =
+font-family: SFUIText-Regular, Roboto, Segoe, Helvetica Neue, Helvetica, =
+Arial, sans-serif; "><p style=3D"display:inline;">self.produce=E3=81=8C=E3=
+=83=95=E3=82=A9=E3=83=AD=E3=83=BC=E4=B8=AD</p></div><div style=3D"display: =
+block; margin: 21px 0 14px 0; "><a href=3D"https://www.instagram.com/_n/us=
+er?username=3Dnao_chan023&amp;target_user_id=3D44646304610&amp;utm_campaig=
+n=3Dfind_friend_activity_email&amp;click_source=3Duser&amp;utm_source=3Din=
+stagram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&am=
+p;bypass=3D1" style=3D"color:#3b5998;text-decoration:none;"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0px =
+auto;background-color:#3797F0;border-radius:4px;"><tr><td =
+style=3D"width:128px;height:28px;min-width:128px;min-height:28px;"><div><p =
+style=3D"text-align: center; font-family: SFUIText-Regular, Roboto, Segoe, =
+Helvetica Neue, Helvetica, Arial, sans-serif; color: white; margin: auto; =
+font-weight: 600; line-height: 17px; font-size: 15px; =
+">=E3=83=95=E3=82=A9=E3=83=AD=E3=83=BC=E3=81=99=E3=82=8B</p></div></td></t=
+r></table></a></div></div></a><a href=3D"https://www.instagram.com/_n/user=
+?username=3Dcoral.reef.aqua&amp;target_user_id=3D44646304610&amp;utm_campa=
+ign=3Dfind_friend_activity_email&amp;click_source=3Duser&amp;utm_source=3D=
+instagram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&=
+amp;bypass=3D1" style=3D"color:#3b5998;text-decoration:none;"><div =
+style=3D"background: #ffffff; border-color: #d8d8d9; border-width: 1px; =
+border-radius: 10px; border-style: solid; box-shadow: 0 1px 1px rgba(0, 0, =
+0, 0.10); margin: 2px; display: inline-block; width: 180px; height: 250px; =
+vertical-align: bottom; "><img =
+style=3D"border:0;border-radius:40px;display:block;margin:14px auto 0;" =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/49421985_4=
+32169643985871_3267529329734582272_n.jpg?_nc_ht=3Dscontent.cdninstagram.co=
+m&amp;_nc_ohc=3DX_brtJcxynMAX-g1y2z&amp;tp=3D1&amp;oh=3D7605572d736e9db332=
+d84659be4b3c5f&amp;oe=3D6016777D" height=3D"80px" width=3D"80px" =
+border=3D"0" /><p style=3D"display: block; font-size: 14px; line-height: =
+19px; max-height: 19px; overflow: hidden; margin: 8px 14px 2px 14px; =
+text-align: center; color: #262626; font-family: SFUIText-Semibold, =
+Roboto, Segoe, Helvetica Neue, Helvetica, Arial, sans-serif; =
+">=E3=82=8F=E3=81=8B=E3=82=86=E3=81=8D</p><div style=3D"display: block; =
+font-size: 12px; line-height: 16px; text-align: center; margin: 0 14px; =
+height: 50px; color: #999999; font-family: SFUIText-Regular, Roboto, =
+Segoe, Helvetica Neue, Helvetica, Arial, sans-serif; "><p =
+style=3D"display:inline;">=E3=81=8A=E3=81=99=E3=81=99=E3=82=81</p></div><d=
+iv style=3D"display: block; margin: 21px 0 14px 0; "><a =
+href=3D"https://www.instagram.com/_n/user?username=3Dcoral.reef.aqua&amp;t=
+arget_user_id=3D44646304610&amp;utm_campaign=3Dfind_friend_activity_email&=
+amp;click_source=3Duser&amp;utm_source=3Dinstagram&amp;utm_medium=3Demail&=
+amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp;bypass=3D1" =
+style=3D"color:#3b5998;text-decoration:none;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0px =
+auto;background-color:#3797F0;border-radius:4px;"><tr><td =
+style=3D"width:128px;height:28px;min-width:128px;min-height:28px;"><div><p =
+style=3D"text-align: center; font-family: SFUIText-Regular, Roboto, Segoe, =
+Helvetica Neue, Helvetica, Arial, sans-serif; color: white; margin: auto; =
+font-weight: 600; line-height: 17px; font-size: 15px; =
+">=E3=83=95=E3=82=A9=E3=83=AD=E3=83=BC=E3=81=99=E3=82=8B</p></div></td></t=
+r></table></a></div></div></a><a href=3D"https://www.instagram.com/_n/user=
+?username=3Demihirano7791&amp;target_user_id=3D44646304610&amp;utm_campaig=
+n=3Dfind_friend_activity_email&amp;click_source=3Duser&amp;utm_source=3Din=
+stagram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&am=
+p;bypass=3D1" style=3D"color:#3b5998;text-decoration:none;"><div =
+style=3D"background: #ffffff; border-color: #d8d8d9; border-width: 1px; =
+border-radius: 10px; border-style: solid; box-shadow: 0 1px 1px rgba(0, 0, =
+0, 0.10); margin: 2px; display: inline-block; width: 180px; height: 250px; =
+vertical-align: bottom; "><img =
+style=3D"border:0;border-radius:40px;display:block;margin:14px auto 0;" =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/89847176_2=
+14384026542447_4744804084475756544_n.jpg?_nc_ht=3Dscontent.cdninstagram.co=
+m&amp;_nc_ohc=3D59lt2RFfotgAX8WNoHE&amp;tp=3D1&amp;oh=3D76f184a180d1ea5bd9=
+a0515305f936f9&amp;oe=3D60167CA1" height=3D"80px" width=3D"80px" =
+border=3D"0" /><p style=3D"display: block; font-size: 14px; line-height: =
+19px; max-height: 19px; overflow: hidden; margin: 8px 14px 2px 14px; =
+text-align: center; color: #262626; font-family: SFUIText-Semibold, =
+Roboto, Segoe, Helvetica Neue, Helvetica, Arial, sans-serif; =
+">=E5=B9=B3=E9=87=8E=E6=81=B5=E7=BE=8E</p><div style=3D"display: block; =
+font-size: 12px; line-height: 16px; text-align: center; margin: 0 14px; =
+height: 50px; color: #999999; font-family: SFUIText-Regular, Roboto, =
+Segoe, Helvetica Neue, Helvetica, Arial, sans-serif; "><p =
+style=3D"display:inline;">=E3=81=8A=E3=81=99=E3=81=99=E3=82=81</p></div><d=
+iv style=3D"display: block; margin: 21px 0 14px 0; "><a =
+href=3D"https://www.instagram.com/_n/user?username=3Demihirano7791&amp;tar=
+get_user_id=3D44646304610&amp;utm_campaign=3Dfind_friend_activity_email&am=
+p;click_source=3Duser&amp;utm_source=3Dinstagram&amp;utm_medium=3Demail&am=
+p;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp;bypass=3D1" =
+style=3D"color:#3b5998;text-decoration:none;"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0px =
+auto;background-color:#3797F0;border-radius:4px;"><tr><td =
+style=3D"width:128px;height:28px;min-width:128px;min-height:28px;"><div><p =
+style=3D"text-align: center; font-family: SFUIText-Regular, Roboto, Segoe, =
+Helvetica Neue, Helvetica, Arial, sans-serif; color: white; margin: auto; =
+font-weight: 600; line-height: 17px; font-size: 15px; =
+">=E3=83=95=E3=82=A9=E3=83=AD=E3=83=BC=E3=81=99=E3=82=8B</p></div></td></t=
+r></table></a></div></div></a><a href=3D"https://www.instagram.com/_n/user=
+?username=3Dglay_hiro86&amp;target_user_id=3D44646304610&amp;utm_campaign=
+=3Dfind_friend_activity_email&amp;click_source=3Duser&amp;utm_source=3Dins=
+tagram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp=
+;bypass=3D1" style=3D"color:#3b5998;text-decoration:none;"><div =
+style=3D"background: #ffffff; border-color: #d8d8d9; border-width: 1px; =
+border-radius: 10px; border-style: solid; box-shadow: 0 1px 1px rgba(0, 0, =
+0, 0.10); margin: 2px; display: inline-block; width: 180px; height: 250px; =
+vertical-align: bottom; "><img =
+style=3D"border:0;border-radius:40px;display:block;margin:14px auto 0;" =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/131892081_=
+3607289192701023_6351453340025863000_n.jpg?_nc_ht=3Dscontent.cdninstagram.=
+com&amp;_nc_ohc=3DAmy46Jj9PE8AX-xD0sU&amp;tp=3D1&amp;oh=3D138e89250fcddda0=
+296189398cb2eb6d&amp;oe=3D6019785C" height=3D"80px" width=3D"80px" =
+border=3D"0" /><p style=3D"display: block; font-size: 14px; line-height: =
+19px; max-height: 19px; overflow: hidden; margin: 8px 14px 2px 14px; =
+text-align: center; color: #262626; font-family: SFUIText-Semibold, =
+Roboto, Segoe, Helvetica Neue, Helvetica, Arial, sans-serif; =
+">glay_hiro</p><div style=3D"display: block; font-size: 12px; line-height: =
+16px; text-align: center; margin: 0 14px; height: 50px; color: #999999; =
+font-family: SFUIText-Regular, Roboto, Segoe, Helvetica Neue, Helvetica, =
+Arial, sans-serif; "><p style=3D"display:inline;">self.produce=E3=81=8C=E3=
+=83=95=E3=82=A9=E3=83=AD=E3=83=BC=E4=B8=AD</p></div><div style=3D"display: =
+block; margin: 21px 0 14px 0; "><a href=3D"https://www.instagram.com/_n/us=
+er?username=3Dglay_hiro86&amp;target_user_id=3D44646304610&amp;utm_campaig=
+n=3Dfind_friend_activity_email&amp;click_source=3Duser&amp;utm_source=3Din=
+stagram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&am=
+p;bypass=3D1" style=3D"color:#3b5998;text-decoration:none;"><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0px =
+auto;background-color:#3797F0;border-radius:4px;"><tr><td =
+style=3D"width:128px;height:28px;min-width:128px;min-height:28px;"><div><p =
+style=3D"text-align: center; font-family: SFUIText-Regular, Roboto, Segoe, =
+Helvetica Neue, Helvetica, Arial, sans-serif; color: white; margin: auto; =
+font-weight: 600; line-height: 17px; font-size: 15px; =
+">=E3=83=95=E3=82=A9=E3=83=AD=E3=83=BC=E3=81=99=E3=82=8B</p></div></td></t=
+r></table></a></div></div></a></div><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" =
+style=3D"border-collapse:collapse;text-align:center;margin:0 =
+auto;"><tr><td style=3D""><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;margin:0 =
+auto;"><tr><td style=3D""><a style=3D"color:#3b5998;text-decoration:none;" =
+href=3D"https://www.instagram.com/_n/mainfeed?utm_campaign=3Dfind_friend_a=
+ctivity_email&amp;target_user_id=3D44646304610&amp;click_source=3Dunseen_f=
+ooter&amp;utm_source=3Dinstagram&amp;utm_medium=3Demail&amp;token=3Dh3kegG=
+RSa9&amp;uid=3Dkid9942&amp;bypass=3D1"><div style=3D"border-radius: 8px; =
+background: #ed4b56; padding: 9px; margin: 0 auto; font-size: 16px; =
+display: inline-flex; vertical-align: middle; font-family: =
+SFUIText-Regular,Roboto,Segoe,Helvetica Neue,Helvetica,Arial,sans-serif; =
+color: #fefefe; line-height: 19px; "><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D""><img style=3D"border:0;padding:3px 5px 0 5px;" =
+src=3D"https://www.instagram.com/static/images/bloks/assets/email/unseen_a=
+ctivity_footer/like_icon_white.png/3406e86513f7.png" height=3D"14" =
+width=3D"14" /><span style=3D"color:#fefefe;display:inline-block;vertical-=
+align:top;margin-right:3px;line-height:1.4;height:14px;">1</span></td><div=
+></div><div></div></tr></table></div></a></td></tr><tr><td =
+style=3D"text-align:center;height:8px;vertical-align:top;"><a =
+style=3D"color:#3b5998;text-decoration:none;" href=3D"https://www.instagra=
+m.com/_n/mainfeed?utm_campaign=3Dfind_friend_activity_email&amp;target_use=
+r_id=3D44646304610&amp;click_source=3Dunseen_footer&amp;utm_source=3Dinsta=
+gram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid9942&amp;b=
+ypass=3D1"><img style=3D"border:0;vertical-align:top;" =
+src=3D"https://www.instagram.com/static/images/bloks/assets/email/unseen_a=
+ctivity_footer/footer_tooltip_bottom.png/d69aceee7740.png" height=3D"8" =
+width=3D"21" /></a></td></tr></table><table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;margin:0 =
+auto;"><tr><td style=3D""><a href=3D"https://www.instagram.com/_n/user?use=
+rname=3Dai_jewelly&amp;utm_campaign=3Dfind_friend_activity_email&amp;targe=
+t_user_id=3D44646304610&amp;click_source=3Dfooter_profile&amp;utm_source=
+=3Dinstagram&amp;utm_medium=3Demail&amp;token=3Dh3kegGRSa9&amp;uid=3Dkid99=
+42&amp;bypass=3D1" style=3D"color:#3b5998;text-decoration:none;"><img =
+style=3D"border:3px solid #ffffff;border-radius:50%;opacity:0.8;" =
+src=3D"https://scontent.cdninstagram.com/v/t51.2885-19/s150x150/123629438_=
+260010042244584_6755344069489138353_n.jpg?_nc_ht=3Dscontent.cdninstagram.c=
+om&amp;_nc_ohc=3Db88g2fjpNUgAX8tN9Q3&amp;tp=3D1&amp;oh=3Dc8b87aa622983e9ce=
+43dff1e9019c61d&amp;oe=3D60186508" height=3D"40px" =
+/></a></td></tr></table><p style=3D"margin: 10px auto 0px; color: #999999; =
+font-size: 15px; text-align: center; font-family: =
+SFUIText-Regular,Roboto,Segoe,Helvetica Neue,Helvetica,Arial,sans-serif; =
+max-width: 220px; line-height: 1.5; ">=E6=9C=AA=E8=AA=AD=E3=81=AE=E3=81=8A=
+=E7=9F=A5=E3=82=89=E3=81=9B=E3=81=8C1=E4=BB=B6=E3=81=82=E3=82=8A=E3=81=BE=
+=E3=81=99=E3=80=82</p></td></tr></table></td></tr></table></td></tr><tr><t=
+d style=3D""><table border=3D"0" width=3D"394px" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;margin:0 auto 0 =
+auto;width:394px;"><tr style=3D""><td height=3D"30" =
+style=3D"line-height:30px;" colspan=3D"3">&nbsp;</td></tr><tr =
+align=3D"left"><td width=3D"0" =
+style=3D"display:block;width:0px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D"text-align:center;"><div style=3D"padding-top:10px;"><img =
+class=3D"img" =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/pTeXjRdVk8c.png" =
+height=3D"30" width=3D"77" alt=3D"" /><br /></div><div =
+style=3D"height:10px;"></div><div =
+style=3D"color:#abadae;font-size:11px;margin:0 auto 5px auto;">=C2=A9 =
+Instagram. Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025</div><div =
+style=3D"color:#abadae;font-size:11px;margin:0 auto 5px =
+auto;">=E3=81=93=E3=81=AE=E3=83=A1=E3=83=83=E3=82=BB=E3=83=BC=E3=82=B8=E3=
+=81=AFai_jewelly=E5=90=91=E3=81=91=E3=81=AB<a style=3D"color:#abadae;text-=
+decoration:underline;">info&#064;ai-jewelly.com</a>=E3=81=AB=E9=80=81=E4=
+=BF=A1=E3=81=95=E3=82=8C=E3=81=9F=E3=82=82=E3=81=AE=E3=81=A7=E3=81=99=E3=
+=80=82=E3=81=93=E3=82=8C=E3=81=AFInstagram=E3=81=AE=E6=9C=80=E6=96=B0=E6=
+=83=85=E5=A0=B1=E3=81=AB=E9=96=A2=E3=81=99=E3=82=8B=E3=83=80=E3=82=A4=E3=
+=82=B8=E3=82=A7=E3=82=B9=E3=83=88=E3=83=A1=E3=83=BC=E3=83=AB=E3=81=A7=E3=
+=81=99=E3=80=82=E3=81=93=E3=81=AE=E3=82=88=E3=81=86=E3=81=AA=E3=83=A1=E3=
+=83=BC=E3=83=AB=E3=82=92=E5=8F=97=E3=81=91=E5=8F=96=E3=82=8A=E3=81=9F=E3=
+=81=8F=E3=81=AA=E3=81=84=E5=A0=B4=E5=90=88=E3=81=AF=E3=80=81<a =
+href=3D"https://instagram.com/emails/unsubscribe/reminders?user_id=3D44646=
+304610&amp;sig=3DAU_XiaOpemCHIXjk" style=3D"color:#abadae;text-decoration:=
+underline;">=E9=85=8D=E4=BF=A1=E3=82=92=E5=81=9C=E6=AD=A2</a>=E3=81=97=E3=
+=81=A6=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84=E3=80=82=E3=81=BE=E3=81=9F=E3=
+=80=81=E3=81=93=E3=82=8C=E3=81=8C=E3=81=82=E3=81=AA=E3=81=9F=E3=81=AEInsta=
+gram=E3=82=A2=E3=82=AB=E3=82=A6=E3=83=B3=E3=83=88=E3=81=A7=E3=81=AF=E3=81=
+=AA=E3=81=84=E5=A0=B4=E5=90=88=E3=81=AF=E3=80=81=E3=81=93=E3=81=AE=E3=82=
+=A2=E3=82=AB=E3=82=A6=E3=83=B3=E3=83=88=E3=81=8B=E3=82=89<a =
+href=3D"https://instagram.com/accounts/remove/report_wrong_email/kid9942/5=
+mw-ec0b9573d4f5d52d2c177bf0bafd8543/0zES3tsK/aW5mb0BhaS1qZXdlbGx5LmNvbQ/" =
+style=3D"color:#abadae;text-decoration:underline;">=E3=83=A1=E3=83=BC=E3=
+=83=AB=E3=82=A2=E3=83=89=E3=83=AC=E3=82=B9=E3=82=92=E5=89=8A=E9=99=A4</a>=
+=E3=81=97=E3=81=A6=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84=E3=80=82<br =
+/></div></td><td width=3D"0" style=3D"display:block;width:0px;">&nbsp;&nbs=
+p;&nbsp;</td></tr></table></td></tr><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr></table><span =
+style=3D""><img src=3D"https://www.facebook.com/email_open_log_pic.php?mid=
+=3D5b7d0bfa9507aG24bc37401acb62G5b7d1093f534dGb81&amp;ig_notification_type=
+=3D10" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
